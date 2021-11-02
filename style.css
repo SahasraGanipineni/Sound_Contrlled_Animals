@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    color:black;
+    font-family: 'Irish Grover', cursive;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.header_div{
+    background: white;
+    color: #5BC0DE;
+    font-family: 'Fruktur', cursive;
+}
+
+.header_div p{
+    color: grey;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+#start{
+    font-family: 'roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
